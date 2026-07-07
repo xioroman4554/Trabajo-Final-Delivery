@@ -66,7 +66,7 @@ while True:
             else:
                 zonas[pedido.zona] = 1
 
-        print(f"\nVentas totales: ${total}")
+        print(f"\nImporte de ventas totales: ${total}")
         print("Pedidos por zona:")
         for zona, cantidad in zonas.items():
             print(f"{zona}: {cantidad}")
