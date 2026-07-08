@@ -5,6 +5,7 @@ Participantes:
 3. Encina Patricio
 4. Roman Xiomara
 5. Valdez Estrella
+   
 Comision: 1.3 Grupo 31C
 
 El sistema permite gestionar los pedidos de un servicio de delivery. Permite registrar nuevos pedidos, consultar la lista de pedidos, actualizar su estado (Pendiente, En reparto o Entregado) y mostrar estadísticas como la cantidad de pedidos, los pedidos entregados y el importe de ventas totales. Su objetivo es facilitar el control y la organización de los pedidos de manera sencilla e interactiva.
